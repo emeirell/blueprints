@@ -1,4 +1,5 @@
 name: Basic_Ubuntu
+formatVersion: 1
 version: v1
 inputs: {}
 resources:
