@@ -1,9 +1,0 @@
-formatVersion: 1
-inputs: {}
-resources:
-  Cloud_Machine_1:
-    type: Cloud.Machine
-    properties:
-      image: Ubuntu
-      flavor: Medium
-     
