@@ -1,6 +1,6 @@
 name: Basic_Ubuntu
 formatVersion: 1
-version: v1.3
+version: v1.4
 inputs: {}
 resources:
   Cloud_Machine_1:
